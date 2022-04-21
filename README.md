@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm aven</h1>  
-<h3 align="center">A passionate programmer from Earth, Milky Way Galaxy</h3>  
+<h3 align="center">A passionate Software Engineer from Earth, Milky Way Galaxy</h3>  
   
 - 🌱 I’m currently attending **Computer Science (MSc.)**  
   
 - 📝 I sometimes write articles on [Medium](avendesta.medium.com)  
   
-- 💬 Ask me about **Java, Python and Node**  
+- 💬 Ask me about **Java, Node and Python**  
   
 - 📫 How to reach me **avendesta2020@gmail.com**  
   
