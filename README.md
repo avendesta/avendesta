@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently attending **Computer Science (MSc.)**  
   
-- 📝 I sometimes write articles on [Medium](avendesta.medium.com)  
+- 📝 I sometimes write articles on [Medium](https://avendesta.medium.com)  
   
 - 💬 Ask me about **Java, Node and Python**  
   
