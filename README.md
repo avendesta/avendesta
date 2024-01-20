@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm aven</h1>  
 <h3 align="center">A passionate Software Engineer from Earth, Milky Way Galaxy</h3>  
   
-- 🌱 I’m currently attending **Computer Science (MSc.)**  
+- 🌱 Completed **Computer Science (MSc.)** in 2023 
   
 - 📝 I sometimes write articles on [Medium](https://avendesta.medium.com)  
   
-- 💬 Ask me about **Java, Node and Python**  
+- 💬 Ask me about **Computer Science, Software Development & Design, Cloud**  
   
 - 📫 How to reach me **avendesta2020@gmail.com**  
   
